@@ -1,7 +1,7 @@
 
 add_library(myfoo)
 
-target_sources(myfoo
+target_sources(myfoo PUBLIC
 src/foo.c
 )
 
