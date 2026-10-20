@@ -1,0 +1,4 @@
+[submodule "lib/foo"]
+	path = lib/foo
+	url = https://github.com/0x0002000/myLib
+	branch = main
