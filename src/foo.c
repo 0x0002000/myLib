@@ -3,5 +3,5 @@
 #include "stdio.h"
 
 void foo(){
-    printf("FOO!\n");
+    printf("FOO NEW!\n");
 }
